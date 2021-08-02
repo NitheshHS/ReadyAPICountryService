@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="584f39a6-f98b-43b7-803d-367ecd847dba" name="JDBCTestSuite 5" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="584f39a6-f98b-43b7-803d-367ecd847dbafileName">JDBCTestSuite-5</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
