@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="731a3fa9-d83b-439e-8255-6559c52249de" activeEnvironment="Default environment" name="CountrySoapWebService" resourceRoot="" defaultScriptLanguage="Groovy" runType="SEQUENTIAL" soapui-version="5.6.0" abortOnError="false" encryptionMode="Not encrypted" compositeProjectFormat="1.3" updated="3.9.1" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.TestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project id="731a3fa9-d83b-439e-8255-6559c52249de" activeEnvironment="Default environment" name="CountrySoapWebService" resourceRoot="" defaultScriptLanguage="Groovy" runType="PARALLELL" soapui-version="5.6.0" abortOnError="false" encryptionMode="Not encrypted" compositeProjectFormat="1.3" updated="3.9.1" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.TestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
   <con:entry key="Report Format(s)" value=""/>
   <con:entry key="Host:Port" value=""/>
   <con:entry key="Export JUnit Results" value="true"/>
